@@ -1,5 +1,5 @@
 header {
-    background-color: #DDDDDD;
+    background-color: #fff9f9;
     display: flex;
     align-items: center;
   } 
@@ -13,10 +13,7 @@ h2{
     font-family: 'Oswald', sans-serif;
     
 }
-a { 
 
-
-}
 main{
     font-size: 20px;
     font-family: 'Open Sans', sans-serif;
@@ -27,6 +24,7 @@ body{
 img{
   width: 30%;
 }
+
 footer {
     height: 3em;
     background-color: #9fddd3;
