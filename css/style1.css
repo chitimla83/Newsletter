@@ -41,6 +41,7 @@ a {
   margin-left: 90px;
   margin right: 90px;
   font-size: 30px; 
+  font-family: 'Staatliches', cursive;
 }
 
 div {
@@ -72,6 +73,11 @@ h3{
   font-size: 25px;
   font-family: 'Staatliches', cursive;
 
+}
+figcaption{
+  font-family: 'Staatliches', cursive;
+  font-size: 25px;
+  color: #33658a;
 }
 footer {
     height: 3em;
