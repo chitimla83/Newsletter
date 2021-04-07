@@ -5,10 +5,10 @@ footer { grid-area: f; }
 
 body {
   display: grid;
-  grid: " n   n   n  " 5em
-        "h  h   h" 8em
-        " m   m   .  " 50em
-        " m   m   ." 30em
-        " f   f   f  " 50em
-        /30em 30em 30em;
+  grid: " n   n   n  " auto
+        " h   h   h  " auto
+        " m   m   m  " auto
+        " m   m   m  " auto
+        " f   f   f  " auto
+        /4fr 4fr 4fr;
 }
