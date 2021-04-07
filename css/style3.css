@@ -31,16 +31,18 @@ img{
   width: 30%;
 }
 
-a {
+nav a {
   text-decoration: none;
   display: inline;
   text-align: center;
   color: black;
-  width: 800px;
-  margin-left: 90px;
-  margin-right: 90px;
+  width: 80px;
+  margin-left: 20px;
+  margin-right: 20px;
   font-size: 30px; 
   font-family: 'Staatliches', cursive;
+  padding-left: 1em;
+  padding-right: 1em;
 }
 
 div {
