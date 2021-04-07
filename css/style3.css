@@ -8,6 +8,7 @@ h1{
     text-align: center;
     width: 100%;
     color: #237860;
+    display: block;
 }
 h2{ 
     font-size: 35px;
