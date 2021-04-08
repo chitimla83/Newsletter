@@ -1,0 +1,89 @@
+header {
+    display: flex;
+    align-items: center;
+  } 
+h1{ 
+  font-family: 'Abril Fatface', cursive;
+    font-size: 60px;
+    text-align: center;
+    width: 100%;
+    color: #043565;
+}
+h2{ 
+    font-size: 35px;
+    color: #339989;
+    font-family: 'Staatliches', cursive;
+    font-size: 40px;
+    
+}
+
+p{
+  margin-left: 5em;
+  margin-left: 5em;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
+
+main{
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+body{
+    background-color: #fffafa;
+}
+img{
+  width: 30%;
+}
+
+a {
+  text-decoration: none;
+  display: inline;
+  text-align: center;
+  color:#FFFFFF;
+  width: 800px;
+  margin-left: 30px;
+  margin-right: 20px;
+  font-size: 30px; 
+  font-family: 'Staatliches', cursive;
+}
+
+div {
+text-align: center;
+width: 1400px ;
+}
+
+nav {
+
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color:#339989;
+  color:black;
+  font-family: 'Bebas Neue', cursive;
+
+}
+ul{
+  font-size: 30px;
+  font-family: 'Staatliches', cursive;
+
+}
+h3{
+  font-size: 25px;
+  font-family: 'Staatliches', cursive;
+
+}
+figcaption{
+  font-family: 'Staatliches', cursive;
+  font-size: 30px;
+    color: #043565;;
+}
+footer {
+    height: 3em;
+    background-color: #339989;;
+  }
+  footer p {
+    text-align: center;
+    font-size: 20px;
+  }
