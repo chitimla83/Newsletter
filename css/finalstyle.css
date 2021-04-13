@@ -67,12 +67,19 @@ nav {
 }
 
 ul {
-  font-size: 35px;
+  font-size: 30px;
   font-family: 'Staatliches', cursive;
 }
+li{
+  color: #043565;;
+}
 
+b{
+  color: #043565;;
+}
 h3 {
-  font-size: 25px;
+  color: #043565;;
+  font-size: 35px;
   font-family: 'Staatliches', cursive;
 }
 
